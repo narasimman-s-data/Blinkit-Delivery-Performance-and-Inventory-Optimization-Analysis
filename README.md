@@ -147,8 +147,6 @@ Aspiring / Professional Data Analytics & Business Intelligence Practitioner
 
 Skills: Power BI | DAX | Power Query | Data Visualization | Business Intelligence
 
-- GitHub: [Your GitHub Profile](https://github.com/)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
 
 ⭐ Support
 
